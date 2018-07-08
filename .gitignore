@@ -1,0 +1,5 @@
+*~
+*.pyc
+HST/*
+MANIFEST.HTML
+flux_totals.csv
